@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/clion/lab6/fraction_calculation.h
+
+D:/clion/lab6/main.cpp
+iostream
+-
+fraction_calculation.h
+D:/clion/lab6/fraction_calculation.h
+
